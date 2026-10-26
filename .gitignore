@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.idea/
+.vscode/
+*.ckpt
+*.pth
+!roach/log/ckpt_11833344.pth
+log/
+results/
+data/
+tcp_carla_data/
+*.json
+!leaderboard/data/**/*.json
+.DS_Store

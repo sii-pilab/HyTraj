@@ -1,0 +1,17 @@
+numpy
+scipy
+pillow
+opencv-python
+imgaug
+albumentations
+tqdm
+pyyaml
+dictor
+ephem
+py-trees==0.8.1
+networkx
+shapely
+tabulate
+pytorch-lightning==1.2.5
+torchmetrics
+tensorboard
